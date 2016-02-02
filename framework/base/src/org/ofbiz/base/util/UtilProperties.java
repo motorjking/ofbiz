@@ -764,7 +764,7 @@ public class UtilProperties implements Serializable {
                 fallbackLocale = UtilMisc.parseLocale(locale);
             }
             if (fallbackLocale == null) {
-                fallbackLocale = Locale.ENGLISH;
+                fallbackLocale = Locale.CHINA;
             }
             return fallbackLocale;
         }

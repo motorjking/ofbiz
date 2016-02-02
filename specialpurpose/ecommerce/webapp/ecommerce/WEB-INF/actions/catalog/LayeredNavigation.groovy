@@ -18,6 +18,7 @@
  */
 
 import org.ofbiz.base.util.UtilHttp;
+import org.ofbiz.entity.GenericValue
 import org.ofbiz.entity.util.EntityUtil;
 import org.ofbiz.product.catalog.CatalogWorker;
 import org.ofbiz.product.category.CategoryContentWrapper;
